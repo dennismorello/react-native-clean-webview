@@ -1,4 +1,4 @@
-# react-native-clean-webiew
+# react-native-clean-webview
 > React Native component for rendering a clean WebView (using Readability algorithm)
 
 [![npm version](https://badge.fury.io/js/react-native-clean-webview.svg)](https://badge.fury.io/js/react-native-clean-webview)
